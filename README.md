@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Jason 👋
 
-<!--
-**jas-ho/jas-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌸 AI researcher trying to make sure tech is used for the common good
+- 🔭 current research on benchmarking of large language models, text summarization, and knowledge graph completion
+- 🌱 currently learning as much as possible about AI safety and AI alignment
+- 👯 looking to collaborate on AI research relevant to AI safety and AI alignment 
 
-Here are some ideas to get you started:
+<p align='left'>
+ 
+  <a href="https://scholar.google.at/citations?user=FKrb_FwAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jas-ho/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: # (inspiration: https://github.com/JayThibs/JayThibs#readme)
+[//]: # (how to use badges: https://github.com/alexandresanlim/Badges4-README.md-Profile)
