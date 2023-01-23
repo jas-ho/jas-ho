@@ -1,8 +1,8 @@
 ### Hi there, I'm Jason 👋
 
 - 🌸 AI researcher trying to make sure tech is used for the common good
-- 🔭 current research on benchmarking of large language models, text summarization, and knowledge graph completion
 - 🌱 looking to collaborate on AI research relevant to AI safety and AI alignment 
+- 🔭 current research on benchmarking of large language models, text summarization, and knowledge graph completion
 
 <p align='left'>
  
