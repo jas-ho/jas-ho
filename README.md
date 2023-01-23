@@ -2,8 +2,7 @@
 
 - 🌸 AI researcher trying to make sure tech is used for the common good
 - 🔭 current research on benchmarking of large language models, text summarization, and knowledge graph completion
-- 🌱 currently learning as much as possible about AI safety and AI alignment
-- 👯 looking to collaborate on AI research relevant to AI safety and AI alignment 
+- 🌱 looking to collaborate on AI research relevant to AI safety and AI alignment 
 
 <p align='left'>
  
