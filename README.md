@@ -2,7 +2,8 @@
 
 - 🌸 AI researcher trying to make sure tech is used for the common good
 - 🌱 looking to collaborate on AI research relevant to AI safety and AI alignment 
-- 🔭 current research on benchmarking of large language models, text summarization, and knowledge graph completion
+- 🔭 current research on safety evaluations of large language models
+- 🔭 previous research on text summarization, knowledge graph completion
 - 👪 community involvement: [Vienna AI alignment group](https://github.com/ViennaAI/info), [European Network for AI Safety](https://enais.co/)
 
 <p align='left'>
