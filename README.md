@@ -11,6 +11,9 @@
   <a href="https://scholar.google.at/citations?user=FKrb_FwAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>        
   </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JasonObermaier">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>        
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jas-ho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
