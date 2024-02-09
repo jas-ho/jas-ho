@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason 👋
 
-- 🌸 AI researcher trying to make sure tech is used for the common good
-- 🌱 Research Lead at [Apart Research](https://apartresearch.com/)
+- 🌸 Let's make sure AI is used for the common good!
+- 🌱 Co-Director & Research Lead at [Apart Research](https://apartresearch.com/)
 - 🌱 looking to collaborate on AI research relevant to AI safety and AI alignment 
 - 🔭 current research on safety evaluations of large language models
 - 🔭 previous research on text summarization, knowledge graph completion
