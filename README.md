@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason 👋
 
-- 🌸 Let's make sure AI becomes a force for the common good!
+- 🌸 Let's make sure advanced AI is beneficial!
 - 🌱 Co-Director & Research Lead at [Apart Research](https://apartresearch.com/)
 - 🌱 Always up for collaborations on research relevant to AI safety and AI alignment 
 - 🔭 current research on safety evaluations of large language models and evaluation methodology
