@@ -2,7 +2,7 @@
 
 - 🌸 Let's make sure advanced AI is beneficial!
 - 🌱 Co-Director & Research Lead at [Apart Research](https://apartresearch.com/)
-- 🌱 Always up for collaborations on research relevant to AI safety and AI alignment 
+- 🌱 Always up for AI safety research collaborations
 - 🔭 current research on safety evaluations of large language models and evaluation methodology
 - 🔭 previous research on text summarization, knowledge graph completion, LLM editing, experimental quantum physics
 - 👪 community involvement: [Vienna AI alignment group](https://github.com/ViennaAI/info), [European Network for AI Safety](https://enais.co/)
