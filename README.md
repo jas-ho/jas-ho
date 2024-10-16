@@ -1,10 +1,10 @@
 ### Hi there, I'm Jason 👋
 
-- 🌸 Let's make sure AI is used for the common good!
+- 🌸 Let's make sure AI becomes a force for the common good!
 - 🌱 Co-Director & Research Lead at [Apart Research](https://apartresearch.com/)
-- 🌱 looking to collaborate on AI research relevant to AI safety and AI alignment 
-- 🔭 current research on safety evaluations of large language models
-- 🔭 previous research on text summarization, knowledge graph completion
+- 🌱 Always up for collaborations on research relevant to AI safety and AI alignment 
+- 🔭 current research on safety evaluations of large language models and evaluation methodology
+- 🔭 previous research on text summarization, knowledge graph completion, LLM editing, experimental quantum physics
 - 👪 community involvement: [Vienna AI alignment group](https://github.com/ViennaAI/info), [European Network for AI Safety](https://enais.co/)
 
 [![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.at/citations?user=FKrb_FwAAAAJ&hl=en)
