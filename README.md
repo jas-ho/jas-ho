@@ -1,13 +1,15 @@
-### Hi there, I'm Jason 👋
+### Jason Hoelscher-Obermaier
 
-- 🌸 Let's make sure advanced AI is beneficial!
-- 🌱 Research Advisor at [Apart Research](https://apartresearch.com/)
-- 🌱 Always up for research collaborations
-- 🔭 current research: safety evaluations of large language models and evaluation methodology
+Advisor at [Apart Research](https://apartresearch.com/), previously Co-Director and Director of Research (2024-2026).
 
-[![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.at/citations?user=FKrb_FwAAAAJ&hl=en)
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/JasonObermaier)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jas-ho/)
+Focus: AI safety evaluations for manipulation, cyber and agent tooling. Most recent work: manipulation evaluations for the EU AI Office (threat models and a capability index across 150 models; private).
 
-[//]: # (inspiration: https://github.com/JayThibs/JayThibs#readme)
-[//]: # (how to use badges: https://github.com/alexandresanlim/Badges4-README.md-Profile)
+**Featured**
+
+- [specificityplus](https://github.com/apartresearch/specificityplus): code for "Detecting Edit Failures in LLMs: An Improved Specificity Benchmark" (ACL Findings 2023)
+- [jason-agent-skills](https://github.com/jas-ho/jason-agent-skills): skills for running Claude Code and Codex as one setup, with cross-model review
+- [reader](https://github.com/jas-ho/reader): static reading-list companion with progress, recall, quizzes and chatbot context export
+- [neurips2025](https://github.com/jas-ho/neurips2025): searchable NeurIPS 2025 paper browser with embedding similarity
+- [claude-sync](https://github.com/jas-ho/claude-sync): sync claude.ai projects and conversations to local files
+
+[Homepage](https://jason.envol.at) · [Google Scholar](https://scholar.google.at/citations?user=FKrb_FwAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jas-ho/) · [X](https://twitter.com/JasonObermaier)
