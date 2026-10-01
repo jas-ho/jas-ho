@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason 👋
 
 - 🌸 Let's make sure advanced AI is beneficial!
-- 🌱 Director of Research at [Apart Research](https://apartresearch.com/)
+- 🌱 Research Advisor at [Apart Research](https://apartresearch.com/)
 - 🌱 Always up for research collaborations
 - 🔭 current research: safety evaluations of large language models and evaluation methodology
 
