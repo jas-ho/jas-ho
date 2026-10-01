@@ -1,6 +1,6 @@
 ### Jason Hoelscher-Obermaier
 
-Advisor at [Apart Research](https://apartresearch.com/), previously Co-Director and Director of Research (2024-2026).
+Research Advisor at [Apart Research](https://apartresearch.com/), previously Co-Director and Director of Research (2024-2026).
 
 Focus: AI safety evaluations for manipulation, cyber and agent tooling. Most recent work: manipulation evaluations for the EU AI Office (threat models and a capability index across 150 models; private).
 
