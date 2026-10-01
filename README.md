@@ -1,6 +1,10 @@
 ### Jason Hoelscher-Obermaier
 
-Research Advisor at [Apart Research](https://apartresearch.com/), previously Co-Director and Director of Research (2024-2026).
+Evaluating frontier AI and preparing Austria and Europe for transformative AI.
+
+- Senior Advisor, Technical AI Research & Evaluation at [Accelerate Europe](https://accelerate-europe.org)
+- Co-initiator of [Transformative KI Österreich](https://transformative-ki.at)
+- Research Advisor at [Apart Research](https://apartresearch.com/), previously Co-Director and Director of Research (2024-2026)
 
 Focus: AI safety evaluations for manipulation, cyber and agent tooling. Most recent work: manipulation evaluations for the EU AI Office (threat models and a capability index across 150 models; private).
 
